@@ -11,3 +11,11 @@
 
 // Escreva sua solução abaixo:
 
+let estudante = false;
+let idoso = true;
+
+if( estudante || idoso){
+    console.log("Benefício Concedido")
+}else{
+    console.log("Benefício não concedido")
+}

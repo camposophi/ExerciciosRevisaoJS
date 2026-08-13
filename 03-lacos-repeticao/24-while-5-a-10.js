@@ -3,3 +3,8 @@
 
 // Escreva sua solução abaixo:
 
+let numero = 5
+while(numero <= 10){
+    console.log("Número Atual:", numero);
+    numero++;
+}

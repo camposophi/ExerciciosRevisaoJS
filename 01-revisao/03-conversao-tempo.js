@@ -8,3 +8,7 @@
 
 // Escreva sua solução abaixo:
 
+let horas = 3;
+let minutos = 60;
+
+console.log(`Em 3 horas existem ${horas * minutos} minutos.`);

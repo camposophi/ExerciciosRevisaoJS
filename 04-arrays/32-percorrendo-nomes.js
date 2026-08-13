@@ -6,3 +6,6 @@ let nomes = ["Lucas", "Mariana", "Pedro", "Bianca"];
 
 // Escreva sua solução abaixo:
 
+for(let indice = 0; indice < nomes.length; indice ++ ){
+    console.log(`Indice: ${indice}: ${nomes[indice]}`)
+}

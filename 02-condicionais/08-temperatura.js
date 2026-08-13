@@ -9,3 +9,10 @@
 
 // Escreva sua solução abaixo:
 
+let temperatura = 31;
+
+if(temperatura > 30){
+    console.log("Hoje o dia está quente")
+}else {
+    console.log("A temperatura está agradável")
+}

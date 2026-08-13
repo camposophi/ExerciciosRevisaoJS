@@ -10,3 +10,12 @@
 
 // Escreva sua solução abaixo:
 
+let idade = 13;
+
+if(idade < 12 ){
+    console.log("Criança")
+}else if( idade < 17){
+    console.log("Adolescente")
+}else{
+    console.log("Adulto")
+}

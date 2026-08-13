@@ -4,3 +4,8 @@
 
 // Escreva sua solução abaixo:
 
+const numero = 7;
+
+for (let multiplicador = 1; multiplicador <= 10; multiplicador ++){
+    console.log(`${numero} X ${multiplicador} = ${numero * multiplicador}`);
+}

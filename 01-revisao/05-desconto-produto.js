@@ -9,3 +9,9 @@
 
 // Escreva sua solução abaixo:
 
+let preco = 200;
+let desconto = 20;
+
+
+console.log("O valor do desconto é:" + preco * (desconto/100) );
+console.log("O valor final é:" + (preco - preco *( desconto /100)));
